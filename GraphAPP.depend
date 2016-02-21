@@ -1,0 +1,974 @@
+# depslib dependency file v1.0
+1444757186 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+
+1445104149 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/MainClass.h
+	"SDL2/SDL.h"
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"Graphs.h"
+	"TextClass.h"
+	"SDL2/SDL.h"
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"Graphs.h"
+	"TextClass.h"
+
+1445866116 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Keys.h
+	"SDL2/SDL.h"
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"SDL_Setup.h"
+
+1447485264 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/SDL_Setup.h
+	"SDL2/SDL.h"
+	"SDL2/SDL.h"
+
+1445888442 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Keys.cpp
+	"Keys.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"Keys.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1447484585 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/MainClass.cpp
+	"MainClass.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"MainClass.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1444745872 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/SDL_Setup.cpp
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1445864730 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Event.h
+	"Keys.h"
+	"Keys.h"
+
+1445873052 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Event.cpp
+	"Event.h"
+	"iostream"
+	"Event.h"
+	"iostream"
+
+1446450385 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Background.cpp
+	"Background.h"
+	"iostream"
+	"SDL2/SDL.h"
+	"Background.h"
+	"iostream"
+	"SDL2/SDL.h"
+
+1445793166 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Background.h
+	"Keys.h"
+	"SDL2/SDL.h"
+	"TextClass.h"
+	"Keys.h"
+	"SDL2/SDL.h"
+	"TextClass.h"
+
+1447050169 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Graph.cpp
+	"Graph.h"
+	"iostream"
+	"Graph.h"
+	"iostream"
+
+1445240824 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Graph.h
+	"Keys.h"
+	"Keys.h"
+
+1445707092 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Parabola.cpp
+	"Parabola.h"
+	"iostream"
+	"SDL2/SDL.h"
+	"Parabola.h"
+	"iostream"
+	"SDL2/SDL.h"
+
+1445707107 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Parabola.h
+	"Graph.h"
+	"Graph.h"
+
+1445721236 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/Graphs.cpp
+	"Graphs.h"
+	"Parabola.h"
+	"iostream"
+	"Graphs.h"
+	"Parabola.h"
+	"iostream"
+
+1445791044 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/Graphs.h
+	"Keys.h"
+	"Graph.h"
+	"list"
+	"Keys.h"
+	"Graph.h"
+	"list"
+
+1446450106 /home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/include/TextClass.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+
+1446450385 source:/home/vusal/Рабочий стол/Папка/Программирование/2 Курс/lab1sdl1/GraphAPP/src/TextClass.cpp
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+
+1444757186 source:/home/vusal/Рабочий стол/GraphAPP/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+
+1447617529 /home/vusal/Рабочий стол/GraphAPP/include/MainClass.h
+	"SDL2/SDL.h"
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"TextClass.h"
+	"Menu.h"
+	"SDL2/SDL.h"
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"TextClass.h"
+	"Menu.h"
+
+1447622548 /home/vusal/Рабочий стол/GraphAPP/include/Keys.h
+	"SDL2/SDL.h"
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"SDL_Setup.h"
+
+1447485264 /home/vusal/Рабочий стол/GraphAPP/include/SDL_Setup.h
+	"SDL2/SDL.h"
+	"SDL2/SDL.h"
+
+1445864730 /home/vusal/Рабочий стол/GraphAPP/include/Event.h
+	"Keys.h"
+	"Keys.h"
+
+1447617529 /home/vusal/Рабочий стол/GraphAPP/include/Background.h
+	"Keys.h"
+	"SDL2/SDL.h"
+	"Keys.h"
+	"SDL2/SDL.h"
+
+1446450106 /home/vusal/Рабочий стол/GraphAPP/include/TextClass.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+
+1445791044 /home/vusal/Рабочий стол/GraphAPP/include/Graphs.h
+	"Keys.h"
+	"Graph.h"
+	"list"
+	"Keys.h"
+	"Graph.h"
+	"list"
+
+1445240824 /home/vusal/Рабочий стол/GraphAPP/include/Graph.h
+	"Keys.h"
+	"Keys.h"
+
+1447617529 source:/home/vusal/Рабочий стол/GraphAPP/src/Background.cpp
+	"Background.h"
+	"iostream"
+	"SDL2/SDL.h"
+	"Background.h"
+	"iostream"
+	"SDL2/SDL.h"
+
+1445873052 source:/home/vusal/Рабочий стол/GraphAPP/src/Event.cpp
+	"Event.h"
+	"iostream"
+	"Event.h"
+	"iostream"
+
+1447050169 source:/home/vusal/Рабочий стол/GraphAPP/src/Graph.cpp
+	"Graph.h"
+	"iostream"
+	"Graph.h"
+	"iostream"
+
+1445721236 source:/home/vusal/Рабочий стол/GraphAPP/src/Graphs.cpp
+	"Graphs.h"
+	"Parabola.h"
+	"iostream"
+	"Graphs.h"
+	"Parabola.h"
+	"iostream"
+
+1445707107 /home/vusal/Рабочий стол/GraphAPP/include/Parabola.h
+	"Graph.h"
+	"Graph.h"
+
+1447622548 source:/home/vusal/Рабочий стол/GraphAPP/src/Keys.cpp
+	"Keys.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"Keys.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1447617462 source:/home/vusal/Рабочий стол/GraphAPP/src/MainClass.cpp
+	"MainClass.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"MainClass.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1445707092 source:/home/vusal/Рабочий стол/GraphAPP/src/Parabola.cpp
+	"Parabola.h"
+	"iostream"
+	"SDL2/SDL.h"
+	"Parabola.h"
+	"iostream"
+	"SDL2/SDL.h"
+
+1444745872 source:/home/vusal/Рабочий стол/GraphAPP/src/SDL_Setup.cpp
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1447617216 source:/home/vusal/Рабочий стол/GraphAPP/src/TextClass.cpp
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+
+1447595962 /home/vusal/Рабочий стол/GraphAPP/include/Menu/Menu.h
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+
+1447593445 /home/vusal/Рабочий стол/GraphAPP/include/Menu/Button.h
+	"SDL2/SDL.h"
+	"string"
+	"SDL2/SDL.h"
+	"string"
+
+1447600553 /home/vusal/Рабочий стол/GraphAPP/include/Menu/Element.h
+	<string>
+	"SDL2/SDL.h"
+	<string>
+	"SDL2/SDL.h"
+
+1447616732 source:/home/vusal/Рабочий стол/GraphAPP/src/Menu/Button.cpp
+	"Menu/Button.h"
+	"Menu/Button.h"
+
+1447620090 /home/vusal/Рабочий стол/GraphAPP/include/Menu.h
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+
+1447593445 /home/vusal/Рабочий стол/GraphAPP/include/Button.h
+	"SDL2/SDL.h"
+	"string"
+	"SDL2/SDL.h"
+	"string"
+
+1447600553 /home/vusal/Рабочий стол/GraphAPP/include/Element.h
+	<string>
+	"SDL2/SDL.h"
+	<string>
+	"SDL2/SDL.h"
+
+1447622239 source:/home/vusal/Рабочий стол/GraphAPP/src/Button.cpp
+	"Button.h"
+	"Button.h"
+
+1447619877 source:/home/vusal/Рабочий стол/GraphAPP/src/Element.cpp
+	"Element.h"
+	"Element.h"
+
+1447623398 source:/home/vusal/Рабочий стол/GraphAPP/src/Menu.cpp
+	"Menu.h"
+	<iostream>
+	"Menu.h"
+	<iostream>
+
+1448710862 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+
+1448711826 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/MainClass.h
+	<iostream>
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"CMenu.h"
+	<iostream>
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"CMenu.h"
+
+1449349531 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Keys.h
+	<iostream>
+	<SDL2/SDL.h>
+
+1447485264 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/SDL_Setup.h
+	"SDL2/SDL.h"
+	"SDL2/SDL.h"
+
+1445864730 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Event.h
+	"Keys.h"
+	"Keys.h"
+
+1449350311 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Background.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"BGEvent.h"
+
+1446450106 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/TextClass.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"Keys.h"
+	"string"
+
+1448653397 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Menu.h
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+	"string"
+	"Buffer.h"
+	"BaseStandardFunction.h"
+	"FuncVector.h"
+	"Graphs.h"
+	"Keys.h"
+	"Button.h"
+	"Element.h"
+	"SDL2/SDL_ttf.h"
+	"string"
+	"Buffer.h"
+	"BaseStandardFunction.h"
+	"FuncVector.h"
+	"Graphs.h"
+
+1449271712 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Button.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+
+1447600553 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Element.h
+	<string>
+	"SDL2/SDL.h"
+	<string>
+	"SDL2/SDL.h"
+
+1449355498 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Background.cpp
+	"Background.h"
+
+1449273241 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Button.cpp
+	"Button.h"
+
+1448214207 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Element.cpp
+	"Element.h"
+	"Element.h"
+
+1449349462 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Keys.cpp
+	"Keys.h"
+
+1449127824 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/MainClass.cpp
+	"MainClass.h"
+	"MainClass.h"
+
+1448712560 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/SDL_Setup.cpp
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1447617216 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/TextClass.cpp
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+	"TextClass.h"
+	"stdio.h"
+	"iostream"
+
+1448690148 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Menu.cpp
+	"Menu.h"
+	<iostream>
+	"Menu.h"
+	<iostream>
+
+1448876611 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Buffer.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+
+1449330742 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Buffer.cpp
+	"Buffer.h"
+
+1448690046 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/BaseStandardFunction.cpp
+	"BaseStandardFunction.h"
+	"BaseStandardFunction.h"
+
+1448690046 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/BaseStandardFunction.h
+	<string>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<string>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+
+1448656691 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/FuncVector.h
+	"BaseStandardFunction.h"
+	"Graphs.h"
+	<vector>
+	"BaseStandardFunction.h"
+	"Graphs.h"
+	<vector>
+
+1448690093 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Graphs.h
+	"BaseStandardFunction.h"
+	"BaseStandardFunction.h"
+
+1448533267 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Func1.h
+	"BaseStandardFunction.h"
+	<string>
+	"BaseStandardFunction.h"
+	<string>
+
+1448691049 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Graphs.cpp
+	"Graphs.h"
+	"string.h"
+	<iostream>
+	"Graphs.h"
+	"string.h"
+	<iostream>
+
+1449323056 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/CMenu.cpp
+	"CMenu.h"
+
+1449163265 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/CMenu.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"Buttons.h"
+	"Dots.h"
+	"StandardFunctions.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"Buttons.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1449273530 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Buttons.cpp
+	"Buttons.h"
+
+1449274643 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Buttons.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1449251509 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/ElementMenu.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1449326731 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Dots.cpp
+	"Dots.h"
+
+1449325999 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Dots.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+
+1449251509 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/Input.cpp
+	"Input.h"
+	"Input.h"
+
+1448891461 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/Input.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Buffer.h"
+	"ElementMenu.h"
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Buffer.h"
+	"ElementMenu.h"
+
+1449327907 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/StandardFunctions.cpp
+	"StandardFunctions.h"
+
+1449321942 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/StandardFunctions.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"StandardFunction.h"
+
+1449243012 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/StFuncExample.cpp
+	"StFuncExample.h"
+	"StFuncExample.h"
+
+1449243389 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/StFuncExample.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL/SDL_ttf.h>
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1449327238 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/StandardFunction.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+
+1449330524 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/StandardFunction.cpp
+	"StandardFunction.h"
+
+1449355232 source:/home/vusal/Рабочий стол/GraphAPP [Осн]/src/BGEvent.cpp
+	"BGEvent.h"
+
+1449347653 /home/vusal/Рабочий стол/GraphAPP [Осн]/include/BGEvent.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+
+1449482912 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+
+1448711826 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/MainClass.h
+	<iostream>
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"CMenu.h"
+
+1449403411 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Keys.h
+	<iostream>
+	<SDL2/SDL.h>
+
+1445864730 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Event.h
+	"Keys.h"
+
+1449760118 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Background.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"BGEvent.h"
+	"Coordinates.h"
+
+1447485264 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/SDL_Setup.h
+	"SDL2/SDL.h"
+
+1449386803 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/BGEvent.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+
+1449761998 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/CMenu.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"Buttons.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1449274643 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Buttons.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1449763527 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/ElementMenu.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1449766068 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Button.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+
+1449483668 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Dots.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+
+1449403392 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Input.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Buffer.h"
+	"ElementMenu.h"
+
+1448876611 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Buffer.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+
+1449465473 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/StandardFunctions.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+	"StandardFunction.h"
+
+1449466757 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/StandardFunction.h
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+
+1450129194 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Background.cpp
+	"Background.h"
+	<math.h>
+
+1449330742 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Buffer.cpp
+	"Buffer.h"
+
+1449273241 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Button.cpp
+	"Button.h"
+
+1449273530 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Buttons.cpp
+	"Buttons.h"
+
+1449494199 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/CMenu.cpp
+	"CMenu.h"
+
+1449484350 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Dots.cpp
+	"Dots.h"
+
+1449251509 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Input.cpp
+	"Input.h"
+
+1449494082 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Keys.cpp
+	"Keys.h"
+
+1449127824 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/MainClass.cpp
+	"MainClass.h"
+
+1448712560 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/SDL_Setup.cpp
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1449494082 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/StandardFunction.cpp
+	"StandardFunction.h"
+
+1449468166 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/StandardFunctions.cpp
+	"StandardFunctions.h"
+
+1449386642 /home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/include/Coordinates.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+
+1449388062 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/BGEvent.cpp
+	"BGEvent.h"
+
+1449468725 source:/home/vusal/Рабочий стол/GraphAPP [Осн] (9th copy)/src/Coordinates.cpp
+	"Coordinates.h"
+
+1451530440 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<MainClass.h>
+
+1451530462 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/MainClass.h
+	<iostream>
+	"Keys.h"
+	"Event.h"
+	"Background.h"
+	"CMenu.h"
+
+1451530448 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Keys.h
+	<iostream>
+	<SDL2/SDL.h>
+
+1451530470 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Event.h
+	"Keys.h"
+
+1451530464 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Background.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"BGEvent.h"
+	"Coordinates.h"
+
+1451530450 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/SDL_Setup.h
+	"SDL2/SDL.h"
+
+1451530458 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/BGEvent.h
+	<iostream>
+	<SDL2/SDL.h>
+	"Keys.h"
+	"SDL_Setup.h"
+
+1451530466 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Coordinates.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+
+1451530446 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/CMenu.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Keys.h"
+	"SDL_Setup.h"
+	"Buttons.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1451530468 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Buttons.h
+	<iostream>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Dots.h"
+	"StandardFunctions.h"
+
+1451530456 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/ElementMenu.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1451530464 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Button.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+
+1451530444 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Dots.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+
+1451530446 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Input.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"Buffer.h"
+	"ElementMenu.h"
+
+1451530450 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/Buffer.h
+	<iostream>
+	<string>
+	<string.h>
+	<SDL2/SDL.h>
+
+1451530456 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/StandardFunctions.h
+	<iostream>
+	<string>
+	<vector>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+	"StandardFunction.h"
+
+1451530452 /home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/include/StandardFunction.h
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	"ElementMenu.h"
+	"Button.h"
+	"Input.h"
+	"Keys.h"
+
+1456051806 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Background.cpp
+	"Background.h"
+	<math.h>
+
+1451530476 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/BGEvent.cpp
+	"BGEvent.h"
+
+1451530478 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Buffer.cpp
+	"Buffer.h"
+
+1451530494 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Button.cpp
+	"Button.h"
+
+1451530490 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Buttons.cpp
+	"Buttons.h"
+
+1451530476 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/CMenu.cpp
+	"CMenu.h"
+
+1451530492 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Coordinates.cpp
+	"Coordinates.h"
+
+1451530474 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Dots.cpp
+	"Dots.h"
+
+1451530498 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Input.cpp
+	"Input.h"
+
+1451530500 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/Keys.cpp
+	"Keys.h"
+
+1451530484 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/MainClass.cpp
+	"MainClass.h"
+
+1451530482 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/SDL_Setup.cpp
+	"SDL_Setup.h"
+	"SDL2/SDL.h"
+	"iostream"
+
+1451530488 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/StandardFunction.cpp
+	"StandardFunction.h"
+
+1451530498 source:/home/vusal/Документы/Проекты/Курсовая работа SDL2/Graph APP/src/StandardFunctions.cpp
+	"StandardFunctions.h"
+

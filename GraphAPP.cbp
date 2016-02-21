@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GraphAPP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GraphAPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lSDL2" />
+					<Add option="-lSDL_ttf" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GraphAPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_image" />
+			<Add option="-lSDL2_mixer" />
+			<Add option="-lSDL2_ttf" />
+		</Linker>
+		<Unit filename="include/BGEvent.h" />
+		<Unit filename="include/Background.h" />
+		<Unit filename="include/Buffer.h" />
+		<Unit filename="include/Button.h" />
+		<Unit filename="include/Buttons.h" />
+		<Unit filename="include/CMenu.h" />
+		<Unit filename="include/Coordinates.h" />
+		<Unit filename="include/Dots.h" />
+		<Unit filename="include/ElementMenu.h" />
+		<Unit filename="include/Input.h" />
+		<Unit filename="include/Keys.h" />
+		<Unit filename="include/MainClass.h" />
+		<Unit filename="include/SDL_Setup.h" />
+		<Unit filename="include/StandardFunction.h" />
+		<Unit filename="include/StandardFunctions.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BGEvent.cpp" />
+		<Unit filename="src/Background.cpp" />
+		<Unit filename="src/Buffer.cpp" />
+		<Unit filename="src/Button.cpp" />
+		<Unit filename="src/Buttons.cpp" />
+		<Unit filename="src/CMenu.cpp" />
+		<Unit filename="src/Coordinates.cpp" />
+		<Unit filename="src/Dots.cpp" />
+		<Unit filename="src/Input.cpp" />
+		<Unit filename="src/Keys.cpp" />
+		<Unit filename="src/MainClass.cpp" />
+		<Unit filename="src/SDL_Setup.cpp" />
+		<Unit filename="src/StandardFunction.cpp" />
+		<Unit filename="src/StandardFunctions.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
